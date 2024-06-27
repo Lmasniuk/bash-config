@@ -1,0 +1,16 @@
+alias l="ls -1 --color"
+
+alias mc='function _mkcd() { mkdir "$1" && cd "$1" }; _mkcd'
+alias doc="cd ~/Documents"
+
+#Git Commands
+alias gs="git status"
+alias gcl="git clone"
+alias gb="git branch"
+alias gp="git pull"
+
+
+
+#Node Commands
+alias nrd="npm run dev"
+alias nrs="npm run start"
