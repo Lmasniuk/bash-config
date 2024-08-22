@@ -15,3 +15,4 @@ alias gp="git pull"
 #Node Commands
 alias nrd="npm run dev"
 alias nrs="npm run start"
+alias ni="npm install"
